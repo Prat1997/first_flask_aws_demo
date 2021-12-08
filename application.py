@@ -4,4 +4,4 @@ application=Flask(__name__)
 
 @application.route('/')
 def hello_world():
-    return "Hello , This is prateek's first elastic bean stalk project but second commit"
+    return "Hello , This is prateek's first elastic bean stalk project but Third commit"
